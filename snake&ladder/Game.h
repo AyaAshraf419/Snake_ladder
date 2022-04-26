@@ -4,7 +4,7 @@
 #include<SFML\Graphics.hpp>
 #include<thread>
 
-#include"C:\Users\DELL\source\repos\sfml\sfml\button11.h"
+#include"button11.h"
 #define escape 27
 #define step 121.2 
 #define MAX 30
