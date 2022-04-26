@@ -18,8 +18,8 @@
    
 ## setup &running settings:
    ### 1- Download SFML library from:
-   [download SFML library 2.5.1](https://www.sfml-dev.org/download/sfml/2.5.1/)
-   [SFML running settings](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
+  #### [download SFML library 2.5.1](https://www.sfml-dev.org/download/sfml/2.5.1/)
+  #### [SFML running settings](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
        
    ### 2- Download all project files 
    ### 3- After creation of new project in VS and making all settings on it :
@@ -32,8 +32,8 @@
    ### 4- Mohamed Khaled Mohamed El-Ahmady
 ## Materials:
 
-   [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
-   [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+  ### [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
+  ### [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
    
         
