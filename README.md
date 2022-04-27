@@ -22,15 +22,15 @@
   * Download all project files 
   * After creation of new project in VS and making all settings on it :
             * Add all project file from your project options.
-  * Now,run the game and enjoy ^_^
+  * Now,run the game and enjoy  ^_^
 > ## Team members:
    - **Aya Ashraf Mohamed Hassan** 
    - **Habiba Shaban Mohamed Mohamed**
    - **Sahar Adel Ali Yousif**
    - **Mohamed Khaled Mohamed Alahmady**
 > ## Materials:
-  ### [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
-  ### [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+    ### [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
+    ### [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
    
         
