@@ -12,7 +12,7 @@ void Game::Init_Window()
 	this->Window = new sf::RenderWindow(this->videomode, "Snake and Ladder",sf::Style::Titlebar | sf::Style::Close);
 	this->CreatShape1();
 	this->CreatShape2();
-	this->background.loadFromFile("C:/Users/DELL/source/repos/sfml/sfml/snake and ladder.png");
+	this->background.loadFromFile("snake&ladder/snake and ladder.png");
 	this->s = new sf::Sprite(this->background);
 	if(!this->font.loadFromFile("snake&ladder/OpenSans-SemiBoldItalic.ttf"))
 		printf("Error!!\n");
