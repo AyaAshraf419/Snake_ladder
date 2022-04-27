@@ -17,7 +17,7 @@
 > ### Setup and running settings:
    * Download `SFML` library from:
         * [download SFML library 2.5.1](https://www.sfml-dev.org/download/sfml/2.5.1/)
-        * [SFML Configuration with Visual Studio](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
+        * [SFML configuration with Visual Studio](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
        
   * Download all project files 
   * After creation of new project in VS and making all settings on it :
