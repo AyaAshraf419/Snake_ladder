@@ -20,8 +20,7 @@
         * [SFML configuration with Visual Studio](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
        
   * Download all project files 
-  * After creation of new project in VS and making all settings on it :
-            * Add all project file from your project options.
+  * After creation of new project in VS and making all settings on it, add all project file from your project options.
   * Now,run the game and enjoy  ^_^
 > ### Team members:
    - **Aya Ashraf Mohamed Hassan** 
