@@ -14,7 +14,7 @@ void Game::Init_Window()
 	this->CreatShape2();
 	this->background.loadFromFile("C:/Users/DELL/source/repos/sfml/sfml/snake and ladder.png");
 	this->s = new sf::Sprite(this->background);
-	if(!this->font.loadFromFile("C:/Users/DELL/Desktop/New folder (3)/OpenSans-SemiBoldItalic.ttf"))
+	if(!this->font.loadFromFile("snake&ladder/OpenSans-SemiBoldItalic.ttf"))
 		printf("Error!!\n");
 	this->text.setFont(this->font);
 	this->text1.setFont(this->font);
