@@ -29,7 +29,7 @@
     1- Aya Ashraf Mohamed Hassan 
     2- Habiba Shaban Mohamed Mohamed
     3- Sahar Adel Ali Yousif
-    4- Mohamed Khaled Mohamed El-Ahmady
+    4- Mohamed Khaled Mohamed Alahmady
 ## Materials:
 
   ### [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
