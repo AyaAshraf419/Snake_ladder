@@ -1,9 +1,9 @@
 # Snake_Ladder_Game
 > ## Game Description:
-   * Snakes and ladders is an ancient Indian board game that’s regarded today as a worldwide classic. It requires two or more players and      takes place on a board with numbered, gridded squares. Throughout the board, there are snakes and ladders which connect different        squares. Players roll a dice and navigate on the board.
+   * Snakes and ladders is an ancient Indian board game that’s regarded today as a worldwide classic. It requires two or more players and takes place on a board            with numbered, gridded squares. Throughout the board, there are snakes and ladders which connect different squares. Players roll a dice and navigate on the board.
    
 > ## Purpose from this project:
-   * using data structures and algorithms to make non-simple game and calculating time complexity in different conditions,we implemented      game with c++ language with **data structure** concept, and use **SFML** library to make game more user friendly. 
+   * using data structures and algorithms to make non-simple game and calculating time complexity in different conditions,we implemented      game with c++ language        with **_data structure_** concept, and use **SFML** library to make game more user friendly. 
    
 > ## contents:
    * _snake and ladder image_ -->( 30 squares )
@@ -31,9 +31,3 @@
 > ## Materials:
  * ### [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
  * ### [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-
-   
-        
-
-   
-   
