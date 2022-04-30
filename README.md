@@ -33,7 +33,7 @@
   * you need only to change between 30 and 100 in the shown places in the photos
   
   > ![100](https://user-images.githubusercontent.com/104461730/166103317-a73b34f5-6566-4b2a-824c-1a49b89b9091.png)
-  * 
+   
   > ![30](https://user-images.githubusercontent.com/104461730/166103318-411a7110-740c-4e1e-8cb3-c9479ddf12a4.png)
 
   
