@@ -22,7 +22,7 @@
   * Download all project files 
   * After creation of new project in VS and making all settings on it, add all project file from your project options.
   * change paths of photos and font file to your path, In changing to your paths please use / instead of \\. 
-  * In lines 14, 16, 180, 182 (in Game.cpp file)
+    * In lines 14, 16, 180, 182 (in Game.cpp file)
   
   <p align = "center">
       <img src = "https://user-images.githubusercontent.com/104461730/166102854-4d9cbbaf-63a8-4d1d-b617-c8a27a9584b1.png">
