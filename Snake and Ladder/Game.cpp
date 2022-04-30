@@ -8,7 +8,7 @@ void Game::Init_Window()
 	this->player_width = Image_Width / 6;
 	this->player_height = Image_Hight / 5;
 	this->player_radius = Image_Width / 12.0f;
-	this->Window = new sf::RenderWindow(this->videomode, "Snake and Ladder", sf::Style::Titlebar | sf::Style::Close | sf::Style::Resize);
+	this->Window = new sf::RenderWindow(this->videomode, "Snake and Ladder", sf::Style::Titlebar | sf::Style::Close );
 	this->CreatShape1();
 	this->CreatShape2();
 	this->background.loadFromFile("C:/Users/MG/source/repos/SFML/background.jpg");
@@ -174,7 +174,7 @@ void Game::Init_Window()
 	this->player_width = Image_Width / 10;
 	this->player_height = Image_Hight / 10;
 	this->player_radius = Image_Width / 20.0f;
-	this->Window = new sf::RenderWindow(this->videomode, "Snake and Ladder", sf::Style::Titlebar | sf::Style::Close | sf::Style::Resize);
+	this->Window = new sf::RenderWindow(this->videomode, "Snake and Ladder", sf::Style::Titlebar | sf::Style::Close);
 	this->CreatShape1();
 	this->CreatShape2();
 	this->background.loadFromFile("C:/Users/MG/source/repos/SFML/background6.jpeg");
