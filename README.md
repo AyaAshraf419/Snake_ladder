@@ -54,3 +54,7 @@
 > ### Materials:
    *  [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
    *  [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+> ### Video
+  * <a href="https://drive.google.com/drive/u/0/folders/1LCWQxfw95VhuoCZ8Oc14U0A1btJlO0LZ">
+            while game running
+   </a>
