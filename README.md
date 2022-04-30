@@ -24,7 +24,7 @@
   * change paths of photos and font file to your path, In changing to your paths please use / instead of \\. 
   
        ![ff](https://user-images.githubusercontent.com/104461730/166087112-070029c2-d538-4776-83f8-165be6e5081b.png)
-
+<p align="center"> <img width="600" height="200" src="https://user-images.githubusercontent.com/104461730/166087112-070029c2-d538-4776-83f8-165be6e5081b.png"> </p>
   
   * Now,run the game and enjoy  ^_^
 > ### Team members:
