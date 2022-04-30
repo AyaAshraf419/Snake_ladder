@@ -22,11 +22,20 @@
   * Download all project files 
   * After creation of new project in VS and making all settings on it, add all project file from your project options.
   * change paths of photos and font file to your path, In changing to your paths please use / instead of \\. 
-  * In lines 14, 16, 180, 182
+  * In lines 14, 16, 180, 182 (in Game.cpp file)
   
   > ![paths](https://user-images.githubusercontent.com/104461730/166102854-4d9cbbaf-63a8-4d1d-b617-c8a27a9584b1.png) 
   > ![paths2](https://user-images.githubusercontent.com/104461730/166102863-56685325-5773-45ac-b845-331c344310c8.png)
 
+  * we made two options to play
+  *    1- play using 30 square
+  *    2- palying using 100 square 
+  * you need only to change between 30 and 100 in the shown places in the photos
+  
+  ![100](https://user-images.githubusercontent.com/104461730/166103317-a73b34f5-6566-4b2a-824c-1a49b89b9091.png)
+  ![30](https://user-images.githubusercontent.com/104461730/166103318-411a7110-740c-4e1e-8cb3-c9479ddf12a4.png)
+
+  
   * Now,run the game and enjoy  ^_^
 > ### Team members:
    - **Aya Ashraf Mohamed Hassan** 
