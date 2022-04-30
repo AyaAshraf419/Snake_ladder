@@ -30,7 +30,7 @@
   * we made two options to play
     *    play using 30 square
     *    palying using 100 square 
-  * you need only to change between 30 and 100 in the shown places in the photos
+  * you need only to change between 30 and 100 in the shown places in 2 files (**_main.cpp & game.h_**)
   
   <p align = "left">
       <img src = "https://user-images.githubusercontent.com/104461730/166103317-a73b34f5-6566-4b2a-824c-1a49b89b9091.png">
