@@ -28,8 +28,8 @@
   > ![paths2](https://user-images.githubusercontent.com/104461730/166102863-56685325-5773-45ac-b845-331c344310c8.png)
 
   * we made two options to play
-  *    1- play using 30 square
-  *    2- palying using 100 square 
+    *    1- play using 30 square
+    *    2- palying using 100 square 
   * you need only to change between 30 and 100 in the shown places in the photos
   
   <p align = "left">
