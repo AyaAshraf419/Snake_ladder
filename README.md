@@ -23,11 +23,10 @@
   * After creation of new project in VS and making all settings on it, add all project file from your project options.
   * change paths of photos and font file to your path, In changing to your paths please use / instead of \\. 
   * In lines 14, 16, 180, 182
-  ![paths](https://user-images.githubusercontent.com/104461730/166102854-4d9cbbaf-63a8-4d1d-b617-c8a27a9584b1.png) ![paths2](https://user-images.githubusercontent.com/104461730/166102863-56685325-5773-45ac-b845-331c344310c8.png)
+  
+  ![paths](https://user-images.githubusercontent.com/104461730/166102854-4d9cbbaf-63a8-4d1d-b617-c8a27a9584b1.png) 
+  ![paths2](https://user-images.githubusercontent.com/104461730/166102863-56685325-5773-45ac-b845-331c344310c8.png)
 
-  
-       
-  
   * Now,run the game and enjoy  ^_^
 > ### Team members:
    - **Aya Ashraf Mohamed Hassan** 
