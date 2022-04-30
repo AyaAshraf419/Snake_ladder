@@ -21,6 +21,9 @@
        
   * Download all project files 
   * After creation of new project in VS and making all settings on it, add all project file from your project options.
+  * change pa![ff](https://user-images.githubusercontent.com/104461730/166087112-070029c2-d538-4776-83f8-165be6e5081b.png)
+ths of photos and font file to your path 
+  * 
   * Now,run the game and enjoy  ^_^
 > ### Team members:
    - **Aya Ashraf Mohamed Hassan** 
